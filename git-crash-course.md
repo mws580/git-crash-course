@@ -329,6 +329,8 @@ build-lists: true
 
 # Github!
 
+![fit](jetpack-octocat-clouds.jpg)
+
 ---
 
 # Create account
