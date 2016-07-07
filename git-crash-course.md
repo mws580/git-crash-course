@@ -4,6 +4,11 @@ build-lists: true
 
 ---
 
+
+![fit](riley.png)
+
+---
+
 # [fit] Git / Github / Teams
 
 ---
