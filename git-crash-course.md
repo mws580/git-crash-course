@@ -1,12 +1,16 @@
+build-lists: true
+
 ![fit](tiy.png)
 
 ---
 
-# Git / Github / Teams
+# [fit] Git / Github / Teams
 
 ---
 
 # [fit] Why do we keep versions?
+
+---
 
 ## A story of backups.
 
@@ -47,7 +51,7 @@
 
 # OS support for multiple copies
 
-mycode.txt;2
+`mycode.txt;2`
 
 ^ VMS on the VAX allowed for filenames to contain version numbers
 
@@ -92,7 +96,7 @@ mycode.txt;2
 
 # Branches
 
-- TODO: Find image to explain branches
+![inline](branch.png)
 
 ---
 
@@ -121,6 +125,12 @@ mycode.txt;2
 - Turned out to be a lot of people's problems
 
 ^ Look for Linus' git talk
+
+---
+
+![inline](http://imgs.xkcd.com/comics/git.png)
+
+^ If that doesn't fix it, git.txt contains the phone number of a friend of mine who understands git. Just wait through a few minutes of 'It's really pretty simple, just think of branches as...' and eventually you'll learn the commands that will fix everything.
 
 ---
 
@@ -402,8 +412,3 @@ mycode.txt;2
 ^ Look at my incoming pull requests
 
 # Team Process
-
-
-
-
-
