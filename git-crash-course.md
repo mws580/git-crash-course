@@ -425,4 +425,52 @@ build-lists: true
 
 ^ Look at my incoming pull requests
 
+---
+
 # Team Process
+
+---
+
+# Pull Requests as Code Review
+
+---
+
+# Pull Requests as Cross Training
+
+---
+
+# Pull Reuests as Debate
+
+^ And maybe wars
+
+---
+
+# Good Pull Requests
+
+- Are `feature` complete
+  (for some definition of feature and complete)
+- Are mergable
+- Pass tests
+- Conform to team standards
+- Might relate to open issue/ticket
+
+---
+
+# Good Pull Request Process
+
+- Reviewed by more than one person
+- Comments/questions are given
+- Author is given a chance to revise/comment
+- When commentor and author agree, code is merged
+- ... or ... senior person has signoff
+
+---
+
+# Discussion
+
+---
+
+# Thank You
+
+---
+
